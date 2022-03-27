@@ -43,8 +43,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• My Channel •", url="https://t.me/Info_Kaveesha"),
+        Button.url("• Contact Bot •", url="t.me/jason_spqr_roman_UB_bot"),
     ],
 ]
 
